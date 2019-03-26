@@ -1,6 +1,6 @@
 package tollyactress;
 
-public class Mimi {
+public class NusRatJahan {
 
 	public static void main(String[] args) {
 		System.out.println("She is bad actor");
